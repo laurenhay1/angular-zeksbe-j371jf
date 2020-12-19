@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class FoodPlacesComponent implements OnInit {
 
   constructor() { }
-
 isOffcanvas = true;
+
 
   ngOnInit() {
   }

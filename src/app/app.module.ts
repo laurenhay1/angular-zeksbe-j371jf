@@ -57,6 +57,7 @@ import { FoodPlacesComponent } from './food-places/food-places.component';
       { path: 'cart', component: CartComponent },
       { path: 'shipping', component: ShippingComponent },
       { path: 'graphic', component: GraphicDesignComponent },
+      { path: 'food places', component: FoodPlacesComponent },
     ])
   ],
   declarations: [
